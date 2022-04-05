@@ -17,12 +17,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "https://www.linkedin.com/in/gabrielamorim0/"
+github: "https://github.com/RecNove"
+behence: "https://www.behance.net/gabrielamorim7"
+email: "gabriel._amorim@hotmail.com"
+
 
 highlighter: rouge
 markdown: kramdown
