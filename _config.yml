@@ -5,7 +5,7 @@ description: Software Developer | Front-end | React JS
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: gabriel._amorim@hotmail.com
 
 
 highlighter: rouge
@@ -20,8 +20,6 @@ paginate_path: /blog/page:num/
 linkedin: "https://www.linkedin.com/in/gabrielamorim0/"
 github: "https://github.com/RecNove"
 behence: "https://www.behance.net/gabrielamorim7"
-email: "gabriel._amorim@hotmail.com"
-
 
 highlighter: rouge
 markdown: kramdown
