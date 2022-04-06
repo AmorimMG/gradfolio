@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Sou Mineiro, natural da cidade de Belo Horizonte. Sou estudante de Engenharia da Computação pela PUC MINAS. 
+Sou Mineiro, natural da cidade de Belo Horizonte. Sou estudante de Engenharia da Computação pela `PUC MINAS`. 
 
 Adentrei no mundo da tecnologia cursando técnico pelo `colégio Cotemig`, e atualmente atuo como Estágiario de Software Fullstack na empresa `Meta3 Services & Technologies`. Apaixonado por criar e compartilhar conteúdo de programação.
 
