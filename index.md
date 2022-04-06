@@ -7,8 +7,14 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Sou Mineiro, natural da cidade de Belo Horizonte. Sou estudante de Engenharia da Computação pela Pontifícia Universidade Católica de Minas Gerais. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Adentrei no mundo da tecnologia cursando técnico pelo colégio `Cotemig`, e atualmente atuo como Estágiario de Software na empresa `Meta3 Services & Technologies`. Apaixonado por criar e compartilhar conteúdo de programação.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Eu sou muito curioso e gosto de estudar e aprender sempre. Estou começando minha jornada
+como programador fullstack e se você quiser saber mais sobre minhas história
+profissional basta apenas fazer acessar o link do meu [Curriculo](https://recnove.github.io/jekyll-cv/){:target="_blank"}.
+
+
+
+
