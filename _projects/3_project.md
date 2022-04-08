@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Clone Whatsapp
+description: Clone Whatsapp utilizando Firebase
+redirect: https://github.com/RecNove/whatsappclone
 ---

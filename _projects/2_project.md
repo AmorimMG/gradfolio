@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Clone Netflix
+description: Clone utilizando HTML + CSS
+redirect: https://github.com/RecNove/whatsappclone
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

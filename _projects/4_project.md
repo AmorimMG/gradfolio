@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: Sistema de Jogos
+description: Javascript chamando API's
+redirect: https://github.com/RecNove/RAWG
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
