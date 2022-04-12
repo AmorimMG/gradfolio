@@ -90,6 +90,28 @@
   border-color: #000000;
 }
 
+.rounded-social-buttons .social-button.whatsapp {
+  background: #25D366;
+}
+
+.rounded-social-buttons .social-button.whatsapp:hover, .rounded-social-buttons .social-button.whatsapp:focus {
+  color: #25D366;
+  background: #fefefe;
+  border-color: #000000;
+}
+
+.rounded-social-buttons .social-button.behance {
+  background: #000B1D;
+}
+
+.rounded-social-buttons .social-button.behance:hover, .rounded-social-buttons .social-button.behance:focus {
+  color: #000B1D;
+  background: #fefefe;
+  border-color: #000000;
+}
+
+
+
 .rounded-social-buttons .social-button.orcid {
   background: #a6ce3b;
 }
