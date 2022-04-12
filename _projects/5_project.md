@@ -2,7 +2,7 @@
 layout: post
 title: Jogo da cobrinha
 description: Jogo da cobra utilizando Javascript
-redirect: https://github.com/RecNove/Snake
+redirect: https://recnove.github.io/Snake/
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

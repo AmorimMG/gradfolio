@@ -2,7 +2,7 @@
 layout: post
 title: Sistema de Jogos
 description: Javascript chamando API's
-redirect: https://github.com/RecNove/RAWG
+redirect: https://recnove.github.io/RAWG/index.html
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
