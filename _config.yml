@@ -18,7 +18,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: "https://www.linkedin.com/in/gabrielamorim0/"
 github: "https://github.com/RecNove"
-behence: "https://www.behance.net/gabrielamorim7"
+behance: "https://www.behance.net/gabrielamorim7"
+whatsapp: '31991617703'
 
 highlighter: rouge
 markdown: kramdown
