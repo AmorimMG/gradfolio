@@ -16,9 +16,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/gabrielamorim0/"
-github: "https://github.com/RecNove"
-behance: "https://www.behance.net/gabrielamorim7"
+linkedin: "gabrielamorim0"
+github: "RecNove"
+behance: "gabrielamorim7"
 whatsapp: '31991617703'
 
 highlighter: rouge
