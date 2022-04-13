@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sistema de Jogos
-description: Javascript chamando API's
+description: Projeto Javascript utilizando manipulação de dados de API's
 redirect: https://recnove.github.io/RAWG/index.html
 ---
 

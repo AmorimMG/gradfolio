@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clone Netflix
-description: Clone utilizando HTML + CSS
+description: Clone Netflix utilizando HTML + CSS
 redirect: https://recnove.github.io/Netflix-Clone/
 ---
 
