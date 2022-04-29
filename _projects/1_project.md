@@ -2,7 +2,7 @@
 layout: post
 title: RPG
 description: Um RPG feito em Typescript
-redirect: https://github.com/RecNove/rpg
+redirect: https://github.com/amorimmg/rpg
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 

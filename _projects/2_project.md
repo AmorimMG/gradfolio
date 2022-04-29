@@ -2,7 +2,7 @@
 layout: post
 title: Clone Netflix
 description: Clone Netflix utilizando HTML + CSS
-redirect: https://recnove.github.io/Netflix-Clone/
+redirect: https://amorimmg.github.io/Netflix-Clone/
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

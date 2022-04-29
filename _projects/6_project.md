@@ -2,7 +2,7 @@
 layout: post
 title: Clone Instagram
 description: Clone Instagram utilizando HTML + CSS
-redirect: https://recnove.github.io/instagram/
+redirect: https://amorimmg.github.io/instagram/
 ---
 
 EExample modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
